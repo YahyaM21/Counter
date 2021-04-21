@@ -1,0 +1,39 @@
+h1 {
+    margin: 0;
+}
+body {
+    background-color: aquamarine;
+}
+p {
+    font-size: 3rem;
+    text-align: center;
+}
+.header{
+    font-size: 3rem;
+    text-align: center;
+}
+
+.align {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.btn {
+    padding: 1%;
+    border-radius: 20px;
+    outline: none;
+}
+
+.add {
+    margin-right: 30px;
+}
+.add:hover {
+    background-color: #999;
+}
+.lower {
+    margin-left: 30px;
+}
+.lower:hover {
+    background-color: #999;
+}
